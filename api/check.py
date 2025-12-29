@@ -9,7 +9,7 @@ from pyrogram.errors import FloodWait
 # Telegram details
 API_ID = 29969433
 API_HASH = "884f9ffa4e8ece099cccccade82effac"
-PHONE_NUMBER = "+919634547329"
+PHONE_NUMBER = "+919214045762"
 TARGET_BOT = "@telebrecheddb_bot"
 
 # Vercel के लिए special path
